@@ -1,0 +1,15 @@
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\AvgResponses_allrep_EG.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\AvgResponses_allrep_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\AvgResponses_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\MaxResponses_allrep_EG.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\MaxResponses_allrep_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\MaxResponses_SP.xls
+
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\TetsTrack Summary\Pulse_Duration(sec).xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\AvgResponses_allrep_EG.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\AvgResponses_allrep_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\AvgResponses_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\MaxResponses_allrep_EG.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\MaxResponses_allrep_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\MaxResponses_SP.xls
+C:\work\civil_enginering\new data\Florida\APT Data Filtered\Test Pit Summary\Pulse_Duration(sec).xls

@@ -1,0 +1,38 @@
+<!-- NOTE: If you're working offline, you might have to change the DOCTYPE 
+	to the following: <!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate 
+	Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd"> -->
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<!-- <property name="show_sql">true</property> -->
+		<property name="hbm2ddl.auto">none</property>
+		<mapping class="org.appfuse.model.User" />
+		<mapping class="org.appfuse.model.Role" />
+		<mapping class="org.appfuse.model.State" />
+		<mapping class="org.appfuse.model.Section" />
+		<mapping class="org.appfuse.model.StateEntity" />
+		<mapping class="org.appfuse.model.Reading" />
+		<mapping class="org.appfuse.model.Repetition" />
+		<mapping class="org.appfuse.model.SensorReading" />
+		<mapping class="org.appfuse.model.TireType" />
+		<mapping class="org.appfuse.model.Load" />
+		<mapping class="org.appfuse.model.OhioReading" />
+		<mapping class="org.appfuse.model.PressureSpeed" />
+		<mapping class="org.appfuse.model.OhioSummary" />
+		<mapping class="org.appfuse.model.UCDavis" />
+		<mapping class="org.appfuse.model.DavisSummary" />
+		<mapping class="org.appfuse.model.FloridaSP" />
+		<mapping class="org.appfuse.model.FloridaSPTestTrack" />
+		<mapping class="org.appfuse.model.FloridaSPReadingTestTrack" />
+		<mapping class="org.appfuse.model.FloridaSPSummary" />
+		<mapping class="org.appfuse.model.Tests" />
+		<mapping class="org.appfuse.model.TestSpeedPressure" />
+		<mapping class="org.appfuse.model.SmartRoad" />
+		<mapping class="org.appfuse.model.OhioOldData" />
+		<mapping class="org.appfuse.model.OhioOldData2" />
+
+	</session-factory>
+
+</hibernate-configuration>
